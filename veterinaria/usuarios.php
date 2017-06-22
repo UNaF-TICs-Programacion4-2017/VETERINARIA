@@ -29,7 +29,7 @@
 				echo 'datos encontrados con exito';
 			}
 			else{
-				header('location: index.php?error=1');//si no hay datos encontrados nos lo dira
+				header('location: index.php?error=2');//si no hay datos encontrados nos lo dira
 			}
 
 			switch ($this->result[0]['tipo_usuario']) {

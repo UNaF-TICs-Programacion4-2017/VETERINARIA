@@ -5,7 +5,7 @@
 
 	$objusuario = new verusuario();
 	$objusuario->loguear();//nos dira si el usuario esta registrado
-	$prueba = array();
+	/*$prueba = array();
 	$prueba[0] = $_POST['passwd'];
-	echo $prueba[0];
+	echo $prueba[0];*/
  ?>
