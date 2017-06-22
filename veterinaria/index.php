@@ -19,7 +19,7 @@ INNER JOIN persona on persona.id_persona = telefonos.rela_persona where persona.
 <html>
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-	<title>Inicie Sesión</title>
+	<title>Iniciar Sesión</title>
 	<link href="css.css" rel="stylesheet" type="text/css" > 
 </head>
 <body>
